@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Han dongming</title>
+        <link>https://hetaoxiaoming.github.io/homepage/tags/machine-creation/</link>
+        <description>Latest blog posts from Han dongming</description>
+
+        
+        <language>en-us</language>
+        
+
+        
+
+        
+
+        
+
+        
+        <lastBuildDate>Wed, 03 May 2023 19:30:14 +0200</lastBuildDate>
+        
+
+        
+        <atom:link href="https://hetaoxiaoming.github.io/homepage/tags/machine-creation/index.xml" rel="self" type="application/rss+xml" />
+        
+
+        
+            
+        <item>
+          <title>☆☆ Variable admittance control for puncture robot</title>
+          <link>https://hetaoxiaoming.github.io/homepage/experience/1_force-control/</link>
+          <pubDate>Wed, 03 May 2023 19:30:14 +0200</pubDate>
+          
+          <guid>https://hetaoxiaoming.github.io/homepage/experience/1_force-control/</guid>
+          <description>In the process of teleoperation minimally invasive puncture microwave ablation surgery, due to the regular respiratory ups and downs of the human chest during the operation, the end of the ablation puncture robot is usually rigid in the past, which is likely to cause human tissue tearing near the rigid needle.
+In order to reduce and avoid the secondary damage caused by the relative movement between the puncture needle and the thoracic skin to the surrounding living tissue, we aim at the breathing movement of the patient in the puncture ablation operation, and based on the six-dimensional force sensor and fuzzy control, we have established a breathing-following system.</description>
+        </item>
+            
+        <item>
+          <title>Some interesting coursework : )</title>
+          <link>https://hetaoxiaoming.github.io/homepage/experience/5_some-interesting-coursework/</link>
+          <pubDate>Sun, 04 Dec 2022 23:21:09 +0200</pubDate>
+          
+          <guid>https://hetaoxiaoming.github.io/homepage/experience/5_some-interesting-coursework/</guid>
+          <description><p>I have a great interest in small and hands-on mechanical and electrical production. Here are some interesting course practical assignments or extracurricular mini productions.</p>
+<ol>
+<li>Force feedback gripper | Timeline: 2021.12.20 The detailed work is shown in the video below. This assignment is derived from the major assignment in the electromechanical system course (teached by Dr. Wang Tianmiao). At that time, it was during the period when Facebook was promoting the metaverse.</li>
+</ol>
+</description>
+        </item>
+            
+        <item>
+          <title>☆ Toilet Assist Device Based on Cam Linkage Mechanism</title>
+          <link>https://hetaoxiaoming.github.io/homepage/experience/2_toilet/</link>
+          <pubDate>Wed, 25 Nov 2020 19:30:14 +0200</pubDate>
+          
+          <guid>https://hetaoxiaoming.github.io/homepage/experience/2_toilet/</guid>
+          <description><ul>
+<li>Copetition Introduction The 9th National College Students Mechanical Innovation Design Competition: <strong>&quot;Smart Home, Happy Family&quot;</strong>Mechanical devices to help the elderly live alone (referred to as machinery for helping the elderly); Mechanical devices of modern smart home (referred to as smart home machinery) for “machinery to assist the elderly “, The design focuses on assisting the elderly to sit up, get up and down from bed, go to the toilet and take a bath when they are alone at home.</li>
+</ul>
+</description>
+        </item>
+            
+        <item>
+          <title>☆ Home service robot based on cam linkage mechanism</title>
+          <link>https://hetaoxiaoming.github.io/homepage/experience/3_severs-car/</link>
+          <pubDate>Fri, 20 Nov 2020 19:30:14 +0200</pubDate>
+          
+          <guid>https://hetaoxiaoming.github.io/homepage/experience/3_severs-car/</guid>
+          <description><ul>
+<li>Copetition Introduction The 9th National College Students Mechanical Innovation Design Competition: <strong>&quot;Smart Home, Happy Family&quot;</strong>Mechanical devices to help the elderly live alone (referred to as machinery for helping the elderly); Mechanical devices of modern smart home (referred to as smart home machinery) for “machinery to assist the elderly “, The design focuses on assisting the elderly to sit up, get up and down from bed, go to the toilet and take a bath when they are alone at home.</li>
+</ul>
+</description>
+        </item>
+            
+        <item>
+          <title>☆ Gravity potential energy trolley based on cam mechanism</title>
+          <link>https://hetaoxiaoming.github.io/homepage/experience/4_gravity/</link>
+          <pubDate>Sat, 01 Jun 2019 13:30:14 +0200</pubDate>
+          
+          <guid>https://hetaoxiaoming.github.io/homepage/experience/4_gravity/</guid>
+          <description><ul>
+<li>Competition Introduction The 6th National College Student Engineering Training Comprehensive Ability Competition 第六届全国大学生工程训练综合能力竞赛 This competition is organized by the Chinese Ministry of Education, which was renamed as China College Students Engineering Time and Innovation Ability Competition in 2021. The competition level is second only to the National College Students Mechanical Innovation Design Competition. Relevant competition documentation can be downloaded by clicking here
+Topic Selection: A bicycle with directional control function driven by gravitational potential energy Our competition topic is “A bicycle with directional control function driven by gravitational potential energy”.</li>
+</ul>
+</description>
+        </item>
+            
+        
+    </channel>
+</rss>
